@@ -856,7 +856,7 @@ function renderMenu(e = "all") {
           r.push(""),
           r.push("شكراً 🙏"));
         const o = r.join("\n"),
-          m = `https://wa.me/201228999992?text=${encodeURIComponent(o)}`;
+          m = `https://wa.me/201010922922?text=${encodeURIComponent(o)}`;
         window.open(m, "_blank", "noopener");
       }),
       v());
